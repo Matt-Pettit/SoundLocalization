@@ -16,7 +16,7 @@ Through extensive simulations and real-world testing, the acoustic signal triang
 
 ## 🚀 Getting Started
 To get started with this project, follow these steps:
-- Clone the repository: git clone https://github.com/quetojenkins/EEE3097S_EngineeringDesign_SoundTriangulationProject.git
+- Clone the repository.
 - Install the required dependencies (listed in the requirements.txt file).
 - Set up the hardware components (Raspberry Pis, microphones, and grid).
 - Run the appropriate scripts to capture audio, compute time delays, localize the sound source, and display the results on the GUI. 
