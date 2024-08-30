@@ -11,7 +11,7 @@ This repository contains the code, simulations, and documentation for an acousti
 ## 📈 Results
 Through extensive simulations and real-world testing, the acoustic signal triangulation system has demonstrated impressive accuracy and precision in localizing sound sources. Here are some key results:
 - Time Difference of Arrival (TDoA) Computation: The system achieved an average accuracy of 96.55% in calculating the time delays between microphone pairs, with a standard deviation of 3.33 microseconds. 
-- Sound Localization: The calculated sound positions had an average accuracy of 96.25% compared to the actual positions, with an average error of 20.74 millimeters. 
+- Sound Localization: The calculated sound positions had an average accuracy of 96.25% compared to the actual positions, with an average error of 20.74 millimetres. 
 - Real-Time Performance: The system exhibited real-time capabilities, with processing times below 2 seconds for time delay computation and sound localization.
 
 ## 🚀 Getting Started
